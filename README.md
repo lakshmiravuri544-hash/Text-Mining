@@ -55,14 +55,11 @@ It combines **financial data, text mining, and visualization** to study how publ
 git clone https://github.com/your-username/dogecoin-analysis.git
 cd dogecoin-analysis
 2️⃣ Install dependencies
-bash
-Copy
-Edit
+
 pip install pandas matplotlib wordcloud scikit-learn yfinance plotly mplfinance nltk
 3️⃣ Run Jupyter Notebook
-bash
-Copy
-Edit
+```
+
 jupyter notebook dogecoin_analysis.ipynb
 📚 Dependencies
 Python 3.x
