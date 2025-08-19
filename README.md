@@ -51,17 +51,20 @@ It combines **financial data, text mining, and visualization** to study how publ
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the repository
-```bash
+```
 git clone https://github.com/your-username/dogecoin-analysis.git
 cd dogecoin-analysis
+```
 2️⃣ Install dependencies
-
+```
 pip install pandas matplotlib wordcloud scikit-learn yfinance plotly mplfinance nltk
+```
 3️⃣ Run Jupyter Notebook
 ```
-
 jupyter notebook dogecoin_analysis.ipynb
+```
 📚 Dependencies
+```
 Python 3.x
 
 pandas, numpy
@@ -77,8 +80,10 @@ yfinance
 wordcloud
 
 glob, os
+```
 
 🏆 Results & Insights
+
 Elon Musk’s tweets had a stronger correlation with sudden price spikes compared to random users.
 
 Random users’ tweets mostly contributed to background noise, with limited impact on major price movements.
